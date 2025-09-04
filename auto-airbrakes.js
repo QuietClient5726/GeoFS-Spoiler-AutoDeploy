@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Automatically deploy airbrakes (spoilers) the moment the wheels touch down in GeoFS
+// @author       QuietClient5726
 // @match        https://www.geo-fs.com/*
 // @grant        none
 // ==/UserScript==
