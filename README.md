@@ -8,7 +8,7 @@ This script is free to use, but **not intended for modification or redistributio
 ## Features
 - Automatically deploys spoilers on wheel touchdown (`groundContact` detection).  
 - Automatically retracts spoilers after takeoff.  
-- Works with all aircraft in GeoFS.  
+- Works with all aircraft in GeoFS with spoiler function.
 - Lightweight and efficient, runs every frame without noticeable performance impact.  
 
 ---
