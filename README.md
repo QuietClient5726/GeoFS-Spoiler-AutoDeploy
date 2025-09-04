@@ -30,11 +30,6 @@ This script is free to use, but **not intended for modification or redistributio
 
 ---
 
-## Demo
-*(Optional: Add a GIF or screenshot here of the spoilers deploying automatically on touchdown)*  
-
----
-
 ## License
 MIT License — free to use.  
 This script is **not intended for modification or redistribution**.  
